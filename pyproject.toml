@@ -7,7 +7,7 @@ name = "pricestf_py"
 authors = [{name = "Nicolò Bordin", email = "nicolofbordin@gmail.com"}]
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
-dynamic = ["version", "description"]
+dynamic = ["version", "description", "long_description"]
 
 [project.urls]
 Home = "https://github.com/nbordin/pricestf_py"

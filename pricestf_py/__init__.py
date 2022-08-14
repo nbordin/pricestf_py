@@ -1,5 +1,5 @@
 """
-Python library capable of getting TF2 items' prices from prices.tf REST API.
+pricestf_py is a library to get Team Fortress 2 items' prices from prices.tf API.
 """
 __version__ = "0.1.0"
 

@@ -38,6 +38,6 @@ response = ptf.price_by_name("Rump-o'-Lantern", "Unique", craftable=False, austr
 print(response)
 
 # get item price from its SKU
-r = ptf.price_by_sku(869, 6, craftable=False, australium=False, killstreak=0)
+response = ptf.price_by_sku(869, 6, craftable=False, australium=False, killstreak=0)
 print(response)
 ```

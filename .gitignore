@@ -1,0 +1,7 @@
+*.json
+build
+dist
+*__pycache__*
+*egg-info
+Pipfile
+*sandbox*

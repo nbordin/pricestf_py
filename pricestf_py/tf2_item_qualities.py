@@ -1,0 +1,16 @@
+TF2_ITEM_QUALITIES = {
+    "normal": 0,
+    "genuine": 1,
+    "vintage": 3,
+    "unusual": 5,
+    "unique": 6,
+    "community": 7,
+    "valve": 8,
+    "self-made": 9,
+    "customized": 10,
+    "strange": 11,
+    "completed": 12,
+    "haunted": 13,
+    "collector's": 14,
+    "decorated weapon": 15,
+}

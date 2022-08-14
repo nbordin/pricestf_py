@@ -1,7 +1,7 @@
 # Prices.tf API
 
 
-`pricestf_py` is a library to get Team Fortress 2 items' prices from prices.tf API.
+`pricestf_py` is a library to get Team Fortress 2 items' prices from [prices.tf API](https://api2.prices.tf/docs).
 
 Prices can be queried both by items' SKUs or names: to get prices from item names a Steam API key is required.
 
